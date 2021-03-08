@@ -6,6 +6,7 @@ Start with `npm install` - node modules are not installed here.
 Then you can start the server with `ng serve` on `http://localhost:4200/`.
 
 The project consists of the mobile view and the fullly responsive view of the header.
+It is basically a scss project with Angular only for developement purposes.
 
 ## Development server
 
