@@ -1,0 +1,25 @@
+@media only screen  and (min-width: 760px) {
+    .onlyPhone{
+        display: none;
+        position: absolute;
+    }
+}
+@media only screen  and (min-width: 1015px) {
+    .onlyTablet{
+        display: none;
+        position: absolute;
+    }
+}
+@media only screen  and (max-width: 760px) {
+    .phonePlus{
+        display: none;
+        position: absolute;
+    }
+}
+@media only screen  and (max-width: 1015px) {
+    .tabletPlus{
+        display: none;
+        position: absolute;
+    }
+}
+
