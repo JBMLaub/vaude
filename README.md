@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Start with `npm install` - node modules are not installed here.
 Then you can start the server with `ng serve` on `http://localhost:4200/`.
 
-The project consists of the mobile view and the fullly responsive view of the header.
+The project consists of the mobile view and the fullly responsive view of the header of the main page of the VAUDE e-store.
 It is basically a scss project with Angular only for developement purposes.
 
 ## Development server
